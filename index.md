@@ -13,6 +13,9 @@
   </tr>
 </table>
 
+# My Latest News
+
+- 
 
 # Working Experience
 
@@ -22,7 +25,7 @@
 
 - 09/2015-06/2019, Ph.D. student, College of Computer Science, Sichuan University, China. (Supervised by Prof.  Jianwei Zhang)  
 
-- 07/2013-09/2015, software engineering, Wisesoft. Co. Ltd, China.    
+- 07/2013-09/2015, software engineer, Wisesoft. Co. Ltd, China.    
 
 - 09/2010-06/2013, M.E. student, School of Mechanical Engineering, Sichuan University, China. (Supervised by Prof.  Dejun Ren)    
 
@@ -48,4 +51,8 @@
 
 - Bo Yang, Xianlong Tan, Zhengmao Chen, Bing Wang, Dan Li, Zhongping Yang, Xiping Wu, Yi Lin, ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment, arXiv, 1911.11365.  
 
-- Yi Lin, Jianwei Zhang and Hong Liu, An algorithm for trajectory prediction of flight plan based on relative motion between positions, Frontiers of Information Technology & Electronic Engineering, 2018, vol.19, issue 7, pp.905-916.    
+- Yi Lin, Jianwei Zhang and Hong Liu, An algorithm for trajectory prediction of flight plan based on relative motion between positions, Frontiers of Information Technology & Electronic Engineering, 2018, vol.19, issue 7, pp.905-916.   
+
+
+# CV
+....
