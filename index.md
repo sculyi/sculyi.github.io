@@ -16,9 +16,10 @@
 
 # Personal Information
 
-I am now an assistant professor in the College of Computer Science, Sichuan University, China.     
-I received the Ph.D. degree in computer science and technology from Sichuan University, in Jun. 2019. My Ph.D. advisors were Prof. Jianwei Zhang, who greatly helped me during my study at SCU.     
-I was a visiting PhD student with Department of Civil and Environmental Engineering, University of Wisconsin-Madison, from Nov. 2017 to Dec. 2018. During this time, I was doing research on intelligent transportation systems with Prof. Bin Ran.    
+- 08/2019.08-now , assistant professor, College of Computer Science, Sichuan University, China.  
+- 11/2017-11/2018, visiting PhD student, Department of Civil and Environmental Engineering, University of Wisconsin-Madison. (Supervised by Prof. Bin Ran)    
+- 09/2015-06/2019, Ph.D. student, College of Computer Science, Sichuan University, China. (Supervised by Prof.  Jianwei Zhang)    
+  
 
 
 # Research Interests
