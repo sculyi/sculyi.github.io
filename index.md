@@ -1,3 +1,19 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Yi LIN</h1>
+      <p><b>Ph.D.</b></p>
+      <p><b>College of Computer Science</b></p>
+      <p><b>yilin@scu.edu.cn</b></p>
+      <p><b>No.24 South Section 1, Yihuan Road, Chengdu , China, 610065</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
 # Personal Information
 
 I am now an assistant professor in the College of Computer Science, Sichuan University, China. I received the Ph.D. degree in computer science and technology from Sichuan University, in Jun. 2019. My Ph.D. advisors were Prof. Jianwei Zhang, who greatly helped me during my study at SCU. I was a visiting PhD student with Department of Civil and Environmental Engineering, University of Wisconsin-Madison, from Nov. 2017 to Dec. 2018. During this time, I was doing research on intelligent transportation systems with Prof. Bin Ran.    
