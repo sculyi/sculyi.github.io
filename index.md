@@ -1,3 +1,4 @@
+<font face="Times New Roma"> 
 # Personal Information
 
 I am now an assistant professor in the College of Computer Science, Sichuan University, China. I received the Ph.D. degree in computer science and technology from Sichuan University, in Jun. 2019. My Ph.D. advisors were Prof. Jianwei Zhang, who greatly helped me during my study at SCU. I was a visiting PhD student with Department of Civil and Environmental Engineering, University of Wisconsin-Madison, from Nov. 2017 to Dec. 2018. During this time, I was doing research on intelligent transportation systems with Prof. Bin Ran.
@@ -17,3 +18,4 @@ I am now an assistant professor in the College of Computer Science, Sichuan Univ
 - Yi Lin, Jianwei Zhang, Bo Yang, Hong Liu and Liping Zhao, An optimal routing strategy for transport networks with minimal transmission cost and high network capacity. Physica A: statistical mechanics and its applications, 2019, vol.521, pp.551-561. DOI: 10.1016/j.physa.2019.01.064.     
 
 
+</font>
