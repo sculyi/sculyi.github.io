@@ -17,7 +17,7 @@
 
 - 
 
-# Working Experience
+# Education Experience
 
 - 08/2019.08-now , assistant professor, College of Computer Science, Sichuan University, China.  
 
@@ -25,13 +25,12 @@
 
 - 09/2015-06/2019, Ph.D. student, College of Computer Science, Sichuan University, China. (Supervised by Prof.  Jianwei Zhang)  
 
-- 07/2013-09/2015, software engineer, Wisesoft. Co. Ltd, China.    
-
 - 09/2010-06/2013, M.E. student, School of Mechanical Engineering, Sichuan University, China. (Supervised by Prof.  Dejun Ren)    
 
 - 09/2006-06/2010, B.E. student, School of Mechanical Engineering, Harbin University of Science and Technology, China.    
   
-
+# Working Experience
+- 07/2013-09/2015, software engineer, Wisesoft. Co. Ltd, China.    
 
 # Research Interests
 
