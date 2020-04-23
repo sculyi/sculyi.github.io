@@ -17,9 +17,7 @@
 
 - 
 
-# Education Experience
-
-- 08/2019.08-now , assistant professor, College of Computer Science, Sichuan University, China.  
+# Education 
 
 - 11/2017-11/2018, visiting PhD student, Department of Civil and Environmental Engineering, University of Wisconsin-Madison. (Research on Intelligent Transportation Systems, supervised by Prof. Bin Ran)    
 
@@ -29,7 +27,10 @@
 
 - 09/2006-06/2010, B.E. student, School of Mechanical Engineering, Harbin University of Science and Technology, China.    
   
-# Working Experience
+# Working Experience    
+
+- 08/2019.08-now , assistant professor, College of Computer Science, Sichuan University, China.      
+
 - 07/2013-09/2015, software engineer, Wisesoft. Co. Ltd, China.    
 
 # Research Interests
