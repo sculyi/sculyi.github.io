@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="75%" style="color:red">
       <h1>Yi LIN</h1>
       <p><b>Ph.D., assistant professor</b></p>
       <p><b>College of Computer Science, Sichuan University</b></p>
