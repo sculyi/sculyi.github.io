@@ -35,11 +35,13 @@
 
 # Research Interests
 
-- Air traffic management  
+- Air traffic management: traffic flow prediction, tracjectory prediction, conflict detection,...    
 
-- Machine learning    
+- Machine learning: deep learning (CNN, RNN, GNN, GAN, ...)    
 
-- Speech recognition    
+- Speech recognition: ATCSpeech recognition and understanding    
+
+- Intelligent Transportation Systems: traffic modelling, incident detections, ...    
 
 
 # Selected Publications
