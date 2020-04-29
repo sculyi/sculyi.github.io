@@ -1,5 +1,4 @@
 
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -14,7 +13,6 @@
     </td>
   </tr>
 </table>
-
 
 
 # My Latest News
