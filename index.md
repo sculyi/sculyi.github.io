@@ -15,9 +15,7 @@
   </tr>
 </table>
 
----
-layout: page
----
+
 
 # My Latest News
 
