@@ -9,7 +9,7 @@
       <p><b>No.24 South Section 1, Yihuan Road, Chengdu , China, 610065</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">     
+      <img src="/lyi.jpg" width="100%">     
     </td>
   </tr>
 </table>
