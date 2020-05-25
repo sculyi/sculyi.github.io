@@ -1,12 +1,12 @@
-[Latest-News](https://sculyi.github.io/#latest-news)  
+[Latest News](https://sculyi.github.io/#latest-news)  
 
 [Education](https://sculyi.github.io/#education)  
 
-[Working-Experience](https://sculyi.github.io/#working-experience)  
+[Working Experience](https://sculyi.github.io/#working-experience)  
 
-[Research-Interests](https://sculyi.github.io/#research-interests)  
+[Research Interests](https://sculyi.github.io/#research-interests)  
 
-[Selected-Publications](https://sculyi.github.io/#selected-publications)  
+[Selected Publications](https://sculyi.github.io/#selected-publications)  
 
 [CV](https://sculyi.github.io/#cv)    
 
@@ -26,7 +26,7 @@
 </table>
 
 
-# Latest-News
+# Latest News
 
 - May. 22 2020, my new paper entitled "**Automated traffic incident detection with a smaller dataset based on generative adversarial networks**" has been accepted for publication in "*Accident Analysis & Prevention*".    
 
