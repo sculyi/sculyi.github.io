@@ -1,6 +1,6 @@
-[Latest News](#Latest News)  
+[Latest News](#LatestNews)  
 
-[Education ]: #Education  
+[Education]: #Education  
 
 [Working Experience]: #Working Experience  
 
