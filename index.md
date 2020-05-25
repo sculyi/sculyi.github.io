@@ -42,13 +42,13 @@
 
 - 09/2006-06/2010, B.E. student, School of Mechanical Engineering, Harbin University of Science and Technology, China.    
   
-# Working-Experience    
+# Working Experience    
 
 - 08/2019.08-now , assistant professor, College of Computer Science, Sichuan University, China.      
 
 - 07/2013-09/2015, software engineer, Wisesoft. Co. Ltd, China.    
 
-# Research-Interests
+# Research Interests
 
 - Air traffic management: traffic flow prediction, tracjectory prediction, conflict detection,...    
 
@@ -59,7 +59,7 @@
 - Intelligent Transportation Systems: traffic modelling, incident detections, ...    
 
 
-# Selected-Publications
+# Selected Publications
 - Yi Lin, Linjie Deng, Zhengmao Chen, Xiping Wu, Jianwei Zhang, and Bo Yang, **A real-time ATC safety monitoring framework using a deep learning approach**, *IEEE Transactions on intelligent transportation systems*, 2019, DOI: 10.1109/TITS.2019.2940992. [Paper](https://ieeexplore.ieee.org/document/8846596)    
 
 - Yi Lin, Jianwei Zhang, Hong Liu, **Deep Learning based Short-term Air Traffic Flow Prediction Considering Temporal–spatial Correlation**. *Aerospace Science and Technology*, 2019, vol.93, 105113, DOI: 10.1016/j.ast.2019.04.021.    
