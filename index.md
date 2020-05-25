@@ -1,14 +1,14 @@
-[Latest-News](#Latest-News)  
+[Latest-News](https://sculyi.github.io/#latest-news)  
 
-[Education](https://sculyi.github.io/#Education)  
+[Education](https://sculyi.github.io/#education)  
 
 [Working-Experience](https://sculyi.github.io/#working-experience)  
 
-[Research-Interests](#Research-Interests)  
+[Research-Interests](https://sculyi.github.io/#research-interests)  
 
-[Selected-Publications](#Selected-Publications)  
+[Selected-Publications](https://sculyi.github.io/#selected-publications)  
 
-[CV](#CV)    
+[CV](https://sculyi.github.io/#cv)    
 
 <table border="0">
   <tr>
