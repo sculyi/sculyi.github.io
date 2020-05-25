@@ -1,12 +1,12 @@
-[Latest News](#Latest-News)  
+[Latest-News](#Latest-News)  
 
 [Education](#Education)  
 
-[Working Experience](#Working-Experience)  
+[Working-Experience](#Working-Experience)  
 
-[Research Interests](#Research-Interests)  
+[Research-Interests](#Research-Interests)  
 
-[Selected Publications](#Selected-Publications)  
+[Selected-Publications](#Selected-Publications)  
 
 [CV](#CV)    
 
