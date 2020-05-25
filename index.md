@@ -1,8 +1,8 @@
-[Latest News](#Latest\tNews)  
+[Latest News](#Latest News)  
 
 [Education](#Education)  
 
-[Working Experience]（#Working Experience）  
+[Working Experience](#Working Experience)  
 
 [Research Interests](#Research Interests)  
 
@@ -26,7 +26,7 @@
 </table>
 
 
-# Latest\tNews
+# Latest News
 
 - May. 22 2020, my new paper entitled "**Automated traffic incident detection with a smaller dataset based on generative adversarial networks**" has been accepted for publication in "*Accident Analysis & Prevention*".    
 
