@@ -1,4 +1,4 @@
-[Latest News]("#Latest News")  
+[Latest News](#Latest News)  
 
 [Education]: #Education  
 
@@ -8,8 +8,7 @@
 
 [Selected Publications]: #Selected Publications  
 
-[CV]: #CV  
- <span id="jump">Hello World</span>    
+[CV]: #CV   
 
 <table border="0">
   <tr>
