@@ -1,4 +1,4 @@
-[Latest News](#Education)  
+[Latest News](#Latest News)  
 
 [Education ]: #Education  
 
