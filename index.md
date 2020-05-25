@@ -17,9 +17,9 @@
 
 # My Latest News
 
-- May. 22 2020, my new paper entitled "Automated traffic incident detection with a smaller dataset based on generative adversarial networks" has been accepted for publication in "Accident Analysis & Prevention".    
+- May. 22 2020, my new paper entitled "**Automated traffic incident detection with a smaller dataset based on generative adversarial networks**" has been accepted for publication in "*Accident Analysis & Prevention*".    
 
-- Apr. 29 2020, my new paper entitled "Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control" is ready to be submitted to the 'Chinese Journal of Aeronautics'. I would like to thank Prof. Xinglong Wang (CAUC) for his valuable advice.
+- Apr. 29 2020, my new paper entitled "**Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control**" is ready to be submitted to the '*Chinese Journal of Aeronautics*'. I would like to thank Prof. Xinglong Wang (CAUC) for his valuable advice.
  
 # Education 
 
@@ -49,15 +49,15 @@
 
 
 # Selected Publications
-- Yi Lin, Linjie Deng, Zhengmao Chen, Xiping Wu, Jianwei Zhang, and Bo Yang, A real-time ATC safety monitoring framework using a deep learning approach, IEEE Transactions on intelligent transportation systems, 2019, DOI: 10.1109/TITS.2019.2940992.  (https://ieeexplore.ieee.org/document/8846596)    
+- Yi Lin, Linjie Deng, Zhengmao Chen, Xiping Wu, Jianwei Zhang, and Bo Yang, **A real-time ATC safety monitoring framework using a deep learning approach**, *IEEE Transactions on intelligent transportation systems*, 2019, DOI: 10.1109/TITS.2019.2940992.  (https://ieeexplore.ieee.org/document/8846596)    
 
-- Yi Lin, Jianwei Zhang, Hong Liu, Deep Learning based Short-term Air Traffic Flow Prediction Considering Temporal–spatial Correlation. Aerospace Science and Technology, 2019, vol.93, 105113, DOI: 10.1016/j.ast.2019.04.021.    
+- Yi Lin, Jianwei Zhang, Hong Liu, **Deep Learning based Short-term Air Traffic Flow Prediction Considering Temporal–spatial Correlation**. *Aerospace Science and Technology*, 2019, vol.93, 105113, DOI: 10.1016/j.ast.2019.04.021.    
 
-- Yi Lin, Jianwei Zhang, Bo Yang, Hong Liu and Liping Zhao, An optimal routing strategy for transport networks with minimal transmission cost and high network capacity. Physica A: statistical mechanics and its applications, 2019, vol.521, pp.551-561. DOI: 10.1016/j.physa.2019.01.064.  
+- Yi Lin, Jianwei Zhang, Bo Yang, Hong Liu and Liping Zhao, **An optimal routing strategy for transport networks with minimal transmission cost and high network capacity**. *Physica A: statistical mechanics and its applications*, 2019, vol.521, pp.551-561. DOI: 10.1016/j.physa.2019.01.064.  
 
-- Bo Yang, Xianlong Tan, Zhengmao Chen, Bing Wang, Dan Li, Zhongping Yang, Xiping Wu, Yi Lin, ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment, arXiv, 1911.11365.  
+- Bo Yang, Xianlong Tan, Zhengmao Chen, Bing Wang, Dan Li, Zhongping Yang, Xiping Wu, Yi Lin, **ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment**, *arXiv*, 1911.11365.  
 
-- Yi Lin, Jianwei Zhang and Hong Liu, An algorithm for trajectory prediction of flight plan based on relative motion between positions, Frontiers of Information Technology & Electronic Engineering, 2018, vol.19, issue 7, pp.905-916.   
+- Yi Lin, Jianwei Zhang and Hong Liu, **An algorithm for trajectory prediction of flight plan based on relative motion between positions**, *Frontiers of Information Technology & Electronic Engineering*, 2018, vol.19, issue 7, pp.905-916.   
 
 
 # CV
