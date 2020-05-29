@@ -1,4 +1,4 @@
-[**Latest News**](https://sculyi.github.io/#latest-news)[**|Education**](https://sculyi.github.io/#education)[**|Working Experience**](https://sculyi.github.io/#working-experience)[**|Research Interests**](https://sculyi.github.io/#research-interests)[**|Selected Publications**](https://sculyi.github.io/#selected-publications)[**|CV**](https://sculyi.github.io/#cv)    
+[**[Latest News]**](https://sculyi.github.io/#latest-news)    [**[Education]**](https://sculyi.github.io/#education)[**|Working Experience**](https://sculyi.github.io/#working-experience)[**|Research Interests**](https://sculyi.github.io/#research-interests)[**|Selected Publications**](https://sculyi.github.io/#selected-publications)[**|CV**](https://sculyi.github.io/#cv)    
 
 <table border="0">
   <tr>
