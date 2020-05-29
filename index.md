@@ -1,6 +1,4 @@
-[Latest News](https://sculyi.github.io/#latest-news)  
-
-[Education](https://sculyi.github.io/#education)  
+[Latest News](https://sculyi.github.io/#latest-news)  [Education](https://sculyi.github.io/#education)  
 
 [Working Experience](https://sculyi.github.io/#working-experience)  
 
