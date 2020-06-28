@@ -39,7 +39,7 @@
   
 # Working Experience    
 
-- 08/2019.08-now , assistant professor, College of Computer Science, Sichuan University, China.      
+- 08/2019-now , assistant professor, College of Computer Science, Sichuan University, China.      
 
 - 07/2013-09/2015, software engineer, Wisesoft. Co. Ltd, China.    
 
