@@ -21,6 +21,8 @@
 
 # Latest News
 
+- Jun. 28 2020, my new paper entitled "**A unified framework for multilingual speech recognition in air traffic control systems**" has been accepted for publication in "*IEEE Transactions on Neural Networks and Learning Systems*".  
+
 - May. 22 2020, my new paper entitled "**Automated traffic incident detection with a smaller dataset based on generative adversarial networks**" has been accepted for publication in "*Accident Analysis & Prevention*".    
 
 - Apr. 29 2020, my new paper entitled "**Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control**" is ready to be submitted to the '*Chinese Journal of Aeronautics*'. I would like to thank Prof. Xinglong Wang (CAUC) for his valuable advice.
