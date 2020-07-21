@@ -57,6 +57,8 @@
 # Selected Publications
 - **Yi Lin**, Linjie Deng, Zhengmao Chen, Xiping Wu, Jianwei Zhang, and Bo Yang, **A real-time ATC safety monitoring framework using a deep learning approach**, *IEEE Transactions on intelligent transportation systems*, 2019, DOI: 10.1109/TITS.2019.2940992. [Paper](https://ieeexplore.ieee.org/document/8846596)    
 
+- **Yi Lin**, Linchao Li, Hailong Jing, Bin Ran, Dongye Sun, **Automated traffic incident detection with a smaller dataset based on generative adversarial networks**, *Accident Analysis & Prevention*, 2020, DOI: 10.1016/j.aap.2020.105628. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0001457519314150?via%3Dihub)    
+
 - **Yi Lin**, Jianwei Zhang, Hong Liu, **Deep Learning based Short-term Air Traffic Flow Prediction Considering Temporal–spatial Correlation**. *Aerospace Science and Technology*, 2019, vol.93, 105113, DOI: 10.1016/j.ast.2019.04.021.    
 
 - **Yi Lin**, Jianwei Zhang, Bo Yang, Hong Liu and Liping Zhao, **An optimal routing strategy for transport networks with minimal transmission cost and high network capacity**. *Physica A: statistical mechanics and its applications*, 2019, vol.521, pp.551-561. DOI: 10.1016/j.physa.2019.01.064.  
