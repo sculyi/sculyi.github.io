@@ -21,7 +21,7 @@
 
 # Latest News
 
--July 25 2020, our pre-print paper entitled "**ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment**" has been selected for presentation at the INTERSPEECH 2020.
+- July 25 2020, our pre-print paper entitled "**ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment**" has been selected for presentation at the INTERSPEECH 2020.
 
 - June 28 2020, my new paper entitled "**A unified framework for multilingual speech recognition in air traffic control systems**" has been accepted for publication in "*IEEE Transactions on Neural Networks and Learning Systems*".  
 
