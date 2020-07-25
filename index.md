@@ -21,7 +21,9 @@
 
 # Latest News
 
-- Jun. 28 2020, my new paper entitled "**A unified framework for multilingual speech recognition in air traffic control systems**" has been accepted for publication in "*IEEE Transactions on Neural Networks and Learning Systems*".  
+-July 25 2020, our pre-print paper entitled "**ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment**" has been selected for presentation at the INTERSPEECH 2020.
+
+- June 28 2020, my new paper entitled "**A unified framework for multilingual speech recognition in air traffic control systems**" has been accepted for publication in "*IEEE Transactions on Neural Networks and Learning Systems*".  
 
 - May. 22 2020, my new paper entitled "**Automated traffic incident detection with a smaller dataset based on generative adversarial networks**" has been accepted for publication in "*Accident Analysis & Prevention*".    
 
