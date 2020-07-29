@@ -4,6 +4,15 @@
 
 
 <table border="0">
+  <script>
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?a898605281ffa571448b7dcc3c927a58";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+  })();
+  </script>
   <tr>
     <td width="75%">
       <h1>Yi LIN</h1>
