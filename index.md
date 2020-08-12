@@ -23,6 +23,8 @@
 
 # Latest News
 
+- Aug 12 2020, our new paper entitled "**Improving speech recognition models with small samples for air traffic control systems**" has been accepted for publication in "*Neurocomputing*".
+
 - Aug 9 2020, our new paper entitled "**Real-time traffic incident detection based on a hybrid deep learning model**" has been accepted for publication in "*Transportmetrica A: Transport Science*".
 
 - July 25 2020, our pre-print paper entitled "**ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment**" has been selected for presentation at the INTERSPEECH 2020.
