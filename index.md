@@ -18,6 +18,8 @@
   </tr>
 </table>
 
+<body><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=_4BbBvpu7T8f9NZ7bIVX30HQno2f6cn_mh9dHAOgpNs&cl=ffffff&w=a"></script></body>
+
 
 # Latest News
 
