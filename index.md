@@ -18,7 +18,11 @@
   </tr>
 </table>
 
-<body><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=_4BbBvpu7T8f9NZ7bIVX30HQno2f6cn_mh9dHAOgpNs&cl=ffffff&w=a"></script></body>
+<body>
+  <a href="https://clustrmaps.com/site/1bc6x"  title="Visit tracker">
+    <img src="//www.clustrmaps.com/map_v2.png?d=_4BbBvpu7T8f9NZ7bIVX30HQno2f6cn_mh9dHAOgpNs&cl=ffffff" />
+  </a>
+</body>
 
 
 # Latest News
