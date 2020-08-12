@@ -18,11 +18,7 @@
   </tr>
 </table>
 
-<body>
-  <a href="https://clustrmaps.com/site/1bc6x"  title="Visit tracker">
-    <img src="//www.clustrmaps.com/map_v2.png?d=_4BbBvpu7T8f9NZ7bIVX30HQno2f6cn_mh9dHAOgpNs&cl=ffffff" />
-  </a>
-</body>
+
 
 
 # Latest News
@@ -82,3 +78,10 @@
 
 # CV
 ....
+
+
+<body>
+  <a href="https://clustrmaps.com/site/1bc6x"  title="Visit tracker">
+    <img src="//www.clustrmaps.com/map_v2.png?d=_4BbBvpu7T8f9NZ7bIVX30HQno2f6cn_mh9dHAOgpNs&cl=ffffff" />
+  </a>
+</body>
