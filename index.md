@@ -75,6 +75,8 @@
 
 - Bo Yang, Xianlong Tan, Zhengmao Chen, Bing Wang, Dan Li, Zhongping Yang, Xiping Wu, **Yi Lin** <sup>#</sup> , **ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment**, *arXiv*, 1911.11365.  
 
+- Linchao Li, **Yi Lin** <sup>#</sup>,Bowen Du, Fan Yang, Bin Ran, **Real-time traffic incident detection based on a hybrid deep learning model**, *Transportmetrica A: Transport Science*, 2020, DOI: 10.1080/23249935.2020.1813214.
+
 - **Yi Lin**, Jianwei Zhang and Hong Liu, **An algorithm for trajectory prediction of flight plan based on relative motion between positions**, *Frontiers of Information Technology & Electronic Engineering*, 2018, vol.19, issue 7, pp.905-916.   
 
 
