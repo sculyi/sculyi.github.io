@@ -73,7 +73,7 @@
 
 - **Yi Lin**, Jianwei Zhang, Bo Yang, Hong Liu and Liping Zhao, **An optimal routing strategy for transport networks with minimal transmission cost and high network capacity**. *Physica A: statistical mechanics and its applications*, 2019, vol.521, pp.551-561. DOI: 10.1016/j.physa.2019.01.064.  
 
-- Bo Yang, Xianlong Tan, Zhengmao Chen, Bing Wang, Dan Li, Zhongping Yang, Xiping Wu, **Yi Lin** <sup>#</sup> , **ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment**, *arXiv*, 1911.11365.  
+- Bo Yang, Xianlong Tan, Zhengmao Chen, Bing Wang, Dan Li, Zhongping Yang, Xiping Wu, **Yi Lin** <sup>#</sup> , **ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment**, *Proc. Interspeech 2020*, 399-403, DOI: 10.21437/Interspeech.2020-1020. [Paper](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1020.html)  
 
 - Linchao Li, **Yi Lin** <sup>#</sup>,Bowen Du, Fan Yang, Bin Ran, **Real-time traffic incident detection based on a hybrid deep learning model**, *Transportmetrica A: Transport Science*, 2020, DOI: 10.1080/23249935.2020.1813214.
 
