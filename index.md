@@ -88,7 +88,8 @@
 
 
 # CV
-....
+
+[Up-to-date CV](https://github.com/sculyi/sculyi.github.io/blob/master/RESUME_Yi%20LIN.pdf)
 
 
 <body>
