@@ -24,13 +24,13 @@
 
 # Latest News
 
-- Nov 15 2020, We received a research funding from "*National Natural Science Foundation of China*" (Key project) , as the Investigator.
+- Nov 15 2020, We received a research funding from "*National Natural Science Foundation of China (NSFC-Key project)*" , as the Investigator.
 
 - Nov 10 2020, our new paper entitled "**A deep Gaussian process-based flight trajectory prediction approach and its application on conflict detection**" has been accepted for publication in "*Algorithms*".
 
 - Nov 07 2020, our new paper entitled "**Adaptive volumetric light and atmospheric scattering**" has been accepted for publication in "*Plos One*".
 
-- Sep 18 2020, I received a research funding from "*National Natural Science Foundation of China*" (Young scientist) , as the Principal Investigator (PI).
+- Sep 18 2020, I received a research funding from "*National Natural Science Foundation of China （NSFC-Young scientist)*" , as the Principal Investigator ("**PI**").
 
 - Aug 18 2020, our new paper entitled "**GPU-based multi-slice per pass algorithm in interactive volume illumination rendering**" has been accepted for publication in "*Frontiers of Information Technology & Electronic Engineering*".
 
