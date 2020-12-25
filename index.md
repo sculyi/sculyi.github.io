@@ -8,6 +8,7 @@
     <td width="75%">
       <h1>Yi LIN</h1>
       <p><b>Ph.D., assistant professor</b></p>
+      <p><b>Member, IEEE/b></p>
       <p><b>College of Computer Science, Sichuan University</b></p>
       <p><b>yilin@scu.edu.cn</b></p>
       <p><b>No.24 South Section 1, Yihuan Road, Chengdu , China, 610065</b></p>
@@ -23,6 +24,12 @@
 
 # Latest News
 
+- Nov 10 2020, our new paper entitled "**A deep Gaussian process-based flight trajectory prediction approach and its application on conflict detection**" has been accepted for publication in "*Algorithms*".
+
+- Nov 07 2020, our new paper entitled "**Adaptive volumetric light and atmospheric scattering**" has been accepted for publication in "*Plos One*".
+
+- Aug 18 2020, our new paper entitled "**GPU-based multi-slice per pass algorithm in interactive volume illumination rendering**" has been accepted for publication in "*Frontiers of Information Technology & Electronic Engineering*".
+
 - Aug 12 2020, our new paper entitled "**Improving speech recognition models with small samples for air traffic control systems**" has been accepted for publication in "*Neurocomputing*".
 
 - Aug 9 2020, our new paper entitled "**Real-time traffic incident detection based on a hybrid deep learning model**" has been accepted for publication in "*Transportmetrica A: Transport Science*".
@@ -37,7 +44,7 @@
  
 # Education 
 
-- 11/2017-11/2018, visiting Ph.D. student, Department of Civil and Environmental Engineering, University of Wisconsin-Madison. (Research on Intelligent Transportation Systems, supervised by Prof. Bin Ran)    
+- 11/2017-11/2018, visiting Ph.D. student, Department of Civil and Environmental Engineering, University of Wisconsin-Madison, USA. (Research on Intelligent Transportation Systems, supervised by Prof. Bin Ran)    
 
 - 09/2015-06/2019, Ph.D. student, College of Computer Science, Sichuan University, China. (Supervised by Prof.  Jianwei Zhang)  
 
