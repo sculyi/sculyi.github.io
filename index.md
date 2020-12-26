@@ -24,6 +24,7 @@
 <details>
 <summary>Expand to view</summary>
 <p>
+  
 - Nov 15 2020, We received a research funding from "*National Natural Science Foundation of China (NSFC-Key project)*" , as the Investigator.
 
 - Nov 10 2020, our new paper entitled "**A deep Gaussian process-based flight trajectory prediction approach and its application on conflict detection**" has been accepted for publication in "*Algorithms*".
