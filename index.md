@@ -22,7 +22,7 @@
 # Latest News
 
 
-！<details>
+ <details>
   
 - Nov 15 2020, We received a research funding from "*National Natural Science Foundation of China (NSFC-Key project)*" , as the Investigator.
 
@@ -49,7 +49,7 @@
 
 
 
-！</details>
+ </details>
 
 
 
