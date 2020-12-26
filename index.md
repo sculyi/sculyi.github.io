@@ -23,7 +23,7 @@
 
 <details>
 <summary>Expand to view</summary>
-<p>
+
   
 - Nov 15 2020, We received a research funding from "*National Natural Science Foundation of China (NSFC-Key project)*" , as the Investigator.
 
@@ -47,7 +47,9 @@
 
 - Apr. 29 2020, my new paper entitled "**Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control**" is ready to be submitted to the '*Chinese Journal of Aeronautics*'. I would like to thank Prof. Xinglong Wang (CAUC) for his valuable advice.    
 
-</p>
+
+
+
 </details>
 
 
