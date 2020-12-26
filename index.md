@@ -21,7 +21,8 @@
 
 # Latest News
 
-<details>
+
+ <details>
 <summary>Expand to view</summary>
 
   
@@ -50,7 +51,7 @@
 
 
 
-</details>
+ </details>
 
 
 
