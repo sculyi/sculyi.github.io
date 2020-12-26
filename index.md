@@ -20,7 +20,9 @@
 </table>
 
 
-
+<details>
+<summary>Expand to view</summary>
+<pre><code>
 
 # Latest News
 
@@ -46,6 +48,10 @@
 
 - Apr. 29 2020, my new paper entitled "**Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control**" is ready to be submitted to the '*Chinese Journal of Aeronautics*'. I would like to thank Prof. Xinglong Wang (CAUC) for his valuable advice.
  
+ 
+</code></pre>
+</details>
+
 # Education 
 
 - 11/2017-11/2018, visiting Ph.D. student, Department of Civil and Environmental Engineering, University of Wisconsin-Madison, USA. (Research on Intelligent Transportation Systems, supervised by Prof. Bin Ran)    
