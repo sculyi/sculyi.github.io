@@ -45,7 +45,8 @@
 
 - May. 22 2020, my new paper entitled "**Automated traffic incident detection with a smaller dataset based on generative adversarial networks**" has been accepted for publication in "*Accident Analysis & Prevention*".    
 
-- Apr. 29 2020, my new paper entitled "**Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control**" is ready to be submitted to the '*Chinese Journal of Aeronautics*'. I would like to thank Prof. Xinglong Wang (CAUC) for his valuable advice.
+- Apr. 29 2020, my new paper entitled "**Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control**" is ready to be submitted to the '*Chinese Journal of Aeronautics*'. I would like to thank Prof. Xinglong Wang (CAUC) for his valuable advice.    
+
 </details>
 
 # Education 
