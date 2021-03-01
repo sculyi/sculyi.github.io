@@ -23,7 +23,7 @@
 
 
 
-  
+- Mar 01 2021, My new reivew paper entitled "**Spoken instruction understanding in air traffic control: challenge, technique and application**"  has been accepted for publication in "*Aerospace*".    
   
 - Nov 15 2020, We received a research funding from "*National Natural Science Foundation of China (NSFC-Key project)*" , as the Investigator.
 
