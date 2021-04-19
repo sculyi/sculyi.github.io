@@ -22,6 +22,7 @@
 # Latest News
 
 
+- Apr 19 2021, our new paper entitled "**Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control**"  has been accepted for publication in "*Aerospace Science and Technology*".   
 
 - Mar 01 2021, My new reivew paper entitled "**Spoken instruction understanding in air traffic control: challenge, technique and application**"  has been accepted for publication in "*Aerospace*".    
   
