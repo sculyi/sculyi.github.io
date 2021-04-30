@@ -21,12 +21,13 @@
 
 # Latest News
 
+- Apr 25 2021, I am honored as an Editoral member of "*Journal of Electronics and Information Technology (JEIT)*".   
 
 - Apr 19 2021, our new paper entitled "**Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control**"  has been accepted for publication in "*Aerospace Science and Technology*".   
 
-- Mar 01 2021, My new reivew paper entitled "**Spoken instruction understanding in air traffic control: challenge, technique and application**"  has been accepted for publication in "*Aerospace*".    
+- Mar 01 2021, my new reivew paper entitled "**Spoken instruction understanding in air traffic control: challenge, technique and application**"  has been accepted for publication in "*Aerospace*".    
   
-- Nov 15 2020, We received a research funding from "*National Natural Science Foundation of China (NSFC-Key project)*" , as the Investigator.
+- Nov 15 2020, we received a research funding from "*National Natural Science Foundation of China (NSFC-Key project)*" , as the Investigator.
 
 - Nov 10 2020, our new paper entitled "**A deep Gaussian process-based flight trajectory prediction approach and its application on conflict detection**" has been accepted for publication in "*Algorithms*".
 
