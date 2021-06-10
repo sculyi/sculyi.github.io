@@ -7,7 +7,7 @@
   <tr>
     <td width="75%">
       <h1>Yi LIN</h1>
-      <p><b>Ph.D., assistant professor</b></p>
+      <p><b>Ph.D., Associate professor</b></p>
       <p><b>Member, IEEE</b></p>
       <p><b>College of Computer Science, Sichuan University</b></p>
       <p><b>yilin@scu.edu.cn</b></p>
