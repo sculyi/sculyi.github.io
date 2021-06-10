@@ -21,6 +21,8 @@
 
 # Latest News
 
+- Jun 10 2021, our new paper entitled "**Towards Multilingual end-to-end Speech Recognition for Air Traffic Control**"  has been accepted for publication in "*IET Intelligent Transport Systems*".  
+
 - Apr 25 2021, I am honored as an Editoral member of "*Journal of Electronics and Information Technology (JEIT)*".   
 
 - Apr 19 2021, our new paper entitled "**Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control**"  has been accepted for publication in "*Aerospace Science and Technology*".   
