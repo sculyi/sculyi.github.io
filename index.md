@@ -89,7 +89,7 @@
 - Intelligent Transportation Systems: traffic modelling, incident detections, ...    
 
 
-# Selected Publications Details at (https://www.researchgate.net/profile/Yi_Lin130) (https://scholar.google.com/citations?hl=zh-CN&user=7RapKRUAAAAJ)
+# Selected Publications Details at [**[ReseachGate]**](https://www.researchgate.net/profile/Yi_Lin130)    [**[Google Citation]**](https://scholar.google.com/citations?hl=zh-CN&user=7RapKRUAAAAJ)
 - **Yi Lin**, Dongyue Guo, Jianwei Zhang,  Zhengmao Chen, and Bo Yang, **A unified framework for multilingual speech recognition in air traffic control systems**, *IEEE Transactions on Neural Networks and Learning Systems*, 2020, DOI: 10.1109/TNNLS.2020.3015830. [Paper](https://ieeexplore.ieee.org/document/9174746)   
 
 - **Yi Lin**, Linchao Li, Hailong Jing, Bin Ran, Dongye Sun, **Automated traffic incident detection with a smaller dataset based on generative adversarial networks**, *Accident Analysis & Prevention*, 2020, DOI: 10.1016/j.aap.2020.105628. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0001457519314150?via%3Dihub)  
