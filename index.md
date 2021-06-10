@@ -12,6 +12,7 @@
       <p><b>College of Computer Science, Sichuan University</b></p>
       <p><b>yilin@scu.edu.cn</b></p>
       <p><b>No.24 South Section 1, Yihuan Road, Chengdu , China, 610065</b></p>
+      <p><b>I am looking for some master students, if you are interested in my research, please contact me!</b></p>
     </td>
     <td width="25%">
       <img src="/lyi.jpg" width="100%">     
