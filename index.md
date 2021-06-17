@@ -21,6 +21,7 @@
 
 # I am looking for some master students, if you are interested in my research, please contact me!
 
+# News! A [special issue] (https://www.mdpi.com/journal/aerospace/special_issues/Controlling_speech_understanding_air_traffic_safety_enhancement) is launced on Aerospace journal, please contributes your papers! Thanks very much!
 
 # Latest News
 
