@@ -25,6 +25,8 @@
 
 # Latest News
 
+- Jul 29 2021, our new paper entitled "**A Deep Learning Framework of Autonomous Pilot Agent for Air Traffic Controller Training**"  has been accepted for publication in "*IEEE Transactions on Human-Machine Systems*".  
+
 - Jun 10 2021, our new paper entitled "**Towards Multilingual end-to-end Speech Recognition for Air Traffic Control**"  has been accepted for publication in "*IET Intelligent Transport Systems*".  
 
 - Apr 25 2021, I am honored as an Editoral member of "*Journal of Electronics and Information Technology (JEIT)*".   
