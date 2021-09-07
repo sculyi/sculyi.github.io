@@ -25,6 +25,8 @@
 
 # Latest News
 
+- Sep 07 2021, our new paper entitled "**An Improved U-Net Architecture for Image Dehazing**"  has been accepted for publication in "*IEICE Trans. Information and Systems*".  
+
 - Aug 24 2021, our new paper entitled "**ATCSpeechNet: A multilingual end-to-end speech recognition framework for air traffic control systems**"  has been accepted for publication in "*Applied Soft Computing*".  
 
 - Jul 29 2021, our new paper entitled "**A Deep Learning Framework of Autonomous Pilot Agent for Air Traffic Controller Training**"  has been accepted for publication in "*IEEE Transactions on Human-Machine Systems*".  
