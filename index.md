@@ -25,6 +25,11 @@
 
 # Latest News
 
+
+
+- Nov 12 2021, our paper entitled "**Automated traffic incident detection with a smaller dataset based on generative adversarial networks**" ("*Accident Analysis & Prevention*") is selected as an ESI highly cited paper.
+
+
 - Oct 09 2021, our new paper entitled "**Autonomous underwater robot for underwater image enhancement via multi-scale deformable convolution network with attention mechanism**"  has been accepted for publication in "*COMPUTERS AND ELECTRONICS IN AGRICULTURE*". 
 
 - Sep 07 2021, our new paper entitled "**An Improved U-Net Architecture for Image Dehazing**"  has been accepted for publication in "*IEICE Trans. Information and Systems*".  
