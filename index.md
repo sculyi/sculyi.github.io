@@ -26,13 +26,16 @@
 # Latest News
 
 
+- Jan 08 2022, our paper entitled "**Automatic Repetition Instruction Generation for Air Traffic Control Training using Multi-task Learning with an Improved Copy Network**"  has been accepted for publication in "*Knowledge-based Systems*". Congrat to Pan Zhang!
+
+- Dec 24 2021, our paper entitled "**A Deep Learning Approach for Short-Term Airport Traffic Flow Prediction**"  has been accepted for publication in "*Aerospace*". Congrat to Zhen Yan!
 
 - Nov 12 2021, our paper entitled "**Automated traffic incident detection with a smaller dataset based on generative adversarial networks**" ("*Accident Analysis & Prevention*") is selected as an ESI highly cited paper.
-
 
 - Oct 09 2021, our new paper entitled "**Autonomous underwater robot for underwater image enhancement via multi-scale deformable convolution network with attention mechanism**"  has been accepted for publication in "*COMPUTERS AND ELECTRONICS IN AGRICULTURE*". 
 
 - Sep 07 2021, our new paper entitled "**An Improved U-Net Architecture for Image Dehazing**"  has been accepted for publication in "*IEICE Trans. Information and Systems*".  
+
 - Aug 24 2021, our new paper entitled "**ATCSpeechNet: A multilingual end-to-end speech recognition framework for air traffic control systems**"  has been accepted for publication in "*Applied Soft Computing*".  
 
 - Jul 29 2021, our new paper entitled "**A Deep Learning Framework of Autonomous Pilot Agent for Air Traffic Controller Training**"  has been accepted for publication in "*IEEE Transactions on Human-Machine Systems*".  
