@@ -25,6 +25,11 @@
 
 # Latest News
 
+- Jun 9 2022, our paper entitled "**Multi-prior Underwater Image Restoration Method via Adaptive Transmission**"  has been accepted for publication in "*Optics Express*". 
+
+- May 1 2022, our paper entitled "**Underwater image enhancement via two-level wavelet decomposition maximum brightness color restoration and edge refinement histogram stretching**"  has been accepted for publication in "*Optics Express*". 
+
+- Mar 16 2022, our paper entitled "**DHI-GAN: Improving Dental-Based Human Identification Using Generative Adversarial Networks**"  has been accepted for publication in "*IEEE Transactions on Neural Networks and Learning Systems*". 
 
 - Jan 08 2022, our paper entitled "**Automatic Repetition Instruction Generation for Air Traffic Control Training using Multi-task Learning with an Improved Copy Network**"  has been accepted for publication in "*Knowledge-based Systems*". Congrat to Pan Zhang!
 
