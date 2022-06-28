@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-# I am looking for some master students, if you are interested in my research, please contact me!
+# I am looking for some PhD and master students, if you are interested in my research, please contact me!
 
 # News! A [special issue](https://www.mdpi.com/journal/aerospace/special_issues/Controlling_speech_understanding_air_traffic_safety_enhancement) is launched on Aerospace journal, please contributes your papers! Thanks very much!
 
@@ -29,7 +29,7 @@
 
 - May 1 2022, our paper entitled "**Underwater image enhancement via two-level wavelet decomposition maximum brightness color restoration and edge refinement histogram stretching**"  has been accepted for publication in "*Optics Express*". 
 
-- Mar 16 2022, our paper entitled "**DHI-GAN: Improving Dental-Based Human Identification Using Generative Adversarial Networks**"  has been accepted for publication in "*IEEE Transactions on Neural Networks and Learning Systems*". 
+- Apr 19 2022, our paper entitled "**Identifying and Managing Risks of AI-Driven Operations: the Case of Automatic Speech Recognition for Improving Air Traffic Safety**"  has been accepted for publication in "*Chinese Journal of Aeronautics*". 
 
 - Jan 08 2022, our paper entitled "**Automatic Repetition Instruction Generation for Air Traffic Control Training using Multi-task Learning with an Improved Copy Network**"  has been accepted for publication in "*Knowledge-based Systems*". Congrat to Pan Zhang!
 
