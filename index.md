@@ -25,6 +25,8 @@
 
 # Latest News
 
+- Jul 14 2022, our paper entitled "**Underwater image restoration via background light estimation and depth map optimization**"  has been accepted for publication in "*Optics Express*". 
+
 - Jun 9 2022, our paper entitled "**Multi-prior Underwater Image Restoration Method via Adaptive Transmission**"  has been accepted for publication in "*Optics Express*". 
 
 - May 1 2022, our paper entitled "**Underwater image enhancement via two-level wavelet decomposition maximum brightness color restoration and edge refinement histogram stretching**"  has been accepted for publication in "*Optics Express*". 
