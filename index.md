@@ -25,6 +25,8 @@
 
 # Latest News
 
+- Aug 25 2022, our paper entitled "**FlightBERT: Binary Encoding Representation for Flight Trajectory Prediction**"  has been accepted for publication in "*IEEE Transactions on Intelligent Transportation Systems*". Congrat to Dongyue!
+
 - Jul 14 2022, our paper entitled "**Underwater image restoration via background light estimation and depth map optimization**"  has been accepted for publication in "*Optics Express*". 
 
 - Jun 9 2022, our paper entitled "**Multi-prior Underwater Image Restoration Method via Adaptive Transmission**"  has been accepted for publication in "*Optics Express*". 
