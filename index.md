@@ -25,6 +25,8 @@
 
 # Latest News
 
+- Nov 18 2022, our paper entitled "**A Comparative Study of Speaker Role Identification in Air Traffic Communication Using Deep Learning Approaches**"  has been accepted for publication in "*ACM Transactions on Asian and Low-Resource Language Information Processing*". Congrat to Dongyue!
+
 - Aug 25 2022, our paper entitled "**FlightBERT: Binary Encoding Representation for Flight Trajectory Prediction**"  has been accepted for publication in "*IEEE Transactions on Intelligent Transportation Systems*". Congrat to Dongyue!
 
 - Jul 14 2022, our paper entitled "**Underwater image restoration via background light estimation and depth map optimization**"  has been accepted for publication in "*Optics Express*". 
