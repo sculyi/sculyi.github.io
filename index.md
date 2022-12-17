@@ -25,7 +25,7 @@
 
 # Latest News
 
-- Dec 17 2022, our paper entitled "**A Multi-view Attention based Spatial-temporal Network for Airport Arrival Flow Prediction**"  has been accepted for publication in "*TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW*". Congrat to Zhen Yan!
+- Dec 17 2022, our paper entitled "**A Multi-view Attention based Spatial-temporal Network for Airport Arrival Flow Prediction**"  has been accepted for publication in "*Transportation Research Part E-Logistics and Transportation Review*". Congrat to Zhen Yan!
 
 - Nov 18 2022, our paper entitled "**A Comparative Study of Speaker Role Identification in Air Traffic Communication Using Deep Learning Approaches**"  has been accepted for publication in "*ACM Transactions on Asian and Low-Resource Language Information Processing*". Congrat to Dongyue!
 
