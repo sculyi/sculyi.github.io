@@ -25,6 +25,8 @@
 
 # Latest News
 
+- Jan 11 2023, our paper entitled "**Speech recognition for air traffic control via feature learning and end-to-end training**"  has been accepted for publication in "*IEICE TRANSACTIONS ON INFORMATION AND SYSTEMS*". Congrat to Peng Fan and Dongyue!
+
 - Dec 17 2022, our paper entitled "**A Multi-view Attention based Spatial-temporal Network for Airport Arrival Flow Prediction**"  has been accepted for publication in "*Transportation Research Part E-Logistics and Transportation Review*". Congrat to Zhen Yan!
 
 - Nov 18 2022, our paper entitled "**A Comparative Study of Speaker Role Identification in Air Traffic Communication Using Deep Learning Approaches**"  has been accepted for publication in "*ACM Transactions on Asian and Low-Resource Language Information Processing*". Congrat to Dongyue!
