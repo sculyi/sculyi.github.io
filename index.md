@@ -25,6 +25,8 @@
 
 # Latest News
 
+- Apr 18 2023, our paper entitled "**Boosting Low-Resource Speech Recognition in Air Traffic Communication via Pretrained Feature Aggregation and Multi-Task Learning**"  has been accepted for publication in "*IEEE Transactions on Circuits and Systems II: Express Briefs*". Congrat to Dongyue and Zichen!
+
 - Apr 16 2023, I have been approved to be an Associate Editor of the Journal of Intelligent and Fuzzy Systems (JIFS).
 
 - Apr 14 2023, I joined in Sichuan Youth Federation for Science and Technology.
