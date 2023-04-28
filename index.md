@@ -25,6 +25,10 @@
 
 # Latest News
 
+
+- Apr 28 2023, our paper entitled "**An Image-based Facial Acupoint Detection Approach Using High-resolution Network and Attention Fusion**"  has been accepted for publication in "*IET Biometrics*". Congrat to Tingting!
+
+
 - Apr 18 2023, our paper entitled "**Boosting Low-Resource Speech Recognition in Air Traffic Communication via Pretrained Feature Aggregation and Multi-Task Learning**"  has been accepted for publication in "*IEEE Transactions on Circuits and Systems II: Express Briefs*". Congrat to Dongyue and Zichen!
 
 - Apr 16 2023, I have been approved to be an Associate Editor of the Journal of Intelligent and Fuzzy Systems (JIFS).
