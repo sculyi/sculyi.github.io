@@ -60,9 +60,9 @@
 
 - Associate Editor for Journal of Intelligent and Fuzzy Systems (**JIFS**).
 
-- Editoral Member of Journal of Electronics and Information Technology (**JEIT**), Advanced Engineering Sciences (**AES**).
+- Editoral Member for Journal of Electronics and Information Technology (**JEIT**), Advanced Engineering Sciences (**AES**).
 
-- Leading Guest Editor of Aerospace journal.
+- Leading Guest Editor for Aerospace journal.
 
 
 # Selected Publications [**[ReseachGate]**](https://www.researchgate.net/profile/Yi_Lin130)    [**[Google Citation]**](https://scholar.google.com/citations?hl=zh-CN&user=7RapKRUAAAAJ)
