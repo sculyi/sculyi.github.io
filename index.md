@@ -70,74 +70,73 @@
 # Latest News
 
 
-- Apr 28 2023, our paper entitled "**An Image-based Facial Acupoint Detection Approach Using High-resolution Network and Attention Fusion**"  has been accepted for publication in "*IET Biometrics*". Congrat to Tingting!
+- Apr 28 2023, our paper entitled "*An Image-based Facial Acupoint Detection Approach Using High-resolution Network and Attention Fusion*"  has been accepted for publication in "**IET Biometrics**". Congrat to Tingting!
 
 
-- Apr 18 2023, our paper entitled "**Boosting Low-Resource Speech Recognition in Air Traffic Communication via Pretrained Feature Aggregation and Multi-Task Learning**"  has been accepted for publication in "*IEEE Transactions on Circuits and Systems II: Express Briefs*". Congrat to Dongyue and Zichen!
+- Apr 18 2023, our paper entitled "*Boosting Low-Resource Speech Recognition in Air Traffic Communication via Pretrained Feature Aggregation and Multi-Task Learning*"  has been accepted for publication in "**IEEE Transactions on Circuits and Systems II: Express Briefs**". Congrat to Dongyue and Zichen!
 
 - Apr 16 2023, I have been approved to be an Associate Editor of the Journal of Intelligent and Fuzzy Systems (JIFS).
 
 - Apr 14 2023, I joined in Sichuan Youth Federation for Science and Technology.
 
-- Jan 11 2023, our paper entitled "**Speech recognition for air traffic control via feature learning and end-to-end training**"  has been accepted for publication in "*IEICE TRANSACTIONS ON INFORMATION AND SYSTEMS*". Congrat to Peng Fan and Dongyue!
+- Jan 11 2023, our paper entitled "*Speech recognition for air traffic control via feature learning and end-to-end training*"  has been accepted for publication in "**IEICE TRANSACTIONS ON INFORMATION AND SYSTEMS**". Congrat to Peng Fan and Dongyue!
 
-- Dec 17 2022, our paper entitled "**A Multi-view Attention based Spatial-temporal Network for Airport Arrival Flow Prediction**"  has been accepted for publication in "*Transportation Research Part E-Logistics and Transportation Review*". Congrat to Zhen Yan!
+- Dec 17 2022, our paper entitled "*A Multi-view Attention based Spatial-temporal Network for Airport Arrival Flow Prediction*"  has been accepted for publication in "**Transportation Research Part E-Logistics and Transportation Review**". Congrat to Zhen Yan!
 
-- Nov 18 2022, our paper entitled "**A Comparative Study of Speaker Role Identification in Air Traffic Communication Using Deep Learning Approaches**"  has been accepted for publication in "*ACM Transactions on Asian and Low-Resource Language Information Processing*". Congrat to Dongyue!
+- Nov 18 2022, our paper entitled "*A Comparative Study of Speaker Role Identification in Air Traffic Communication Using Deep Learning Approaches*"  has been accepted for publication in "**ACM Transactions on Asian and Low-Resource Language Information Processing**". Congrat to Dongyue!
 
-- Aug 25 2022, our paper entitled "**FlightBERT: Binary Encoding Representation for Flight Trajectory Prediction**"  has been accepted for publication in "*IEEE Transactions on Intelligent Transportation Systems*". Congrat to Dongyue!
+- Aug 25 2022, our paper entitled "*FlightBERT: Binary Encoding Representation for Flight Trajectory Prediction*"  has been accepted for publication in "**IEEE Transactions on Intelligent Transportation Systems**". Congrat to Dongyue!
 
-- Jul 14 2022, our paper entitled "**Underwater image restoration via background light estimation and depth map optimization**"  has been accepted for publication in "*Optics Express*". 
+- Jul 14 2022, our paper entitled "*Underwater image restoration via background light estimation and depth map optimization*"  has been accepted for publication in "**Optics Express**". 
 
-- Jun 9 2022, our paper entitled "**Multi-prior Underwater Image Restoration Method via Adaptive Transmission**"  has been accepted for publication in "*Optics Express*". 
+- Jun 9 2022, our paper entitled "*Multi-prior Underwater Image Restoration Method via Adaptive Transmission*"  has been accepted for publication in "**Optics Express**". 
 
-- May 1 2022, our paper entitled "**Underwater image enhancement via two-level wavelet decomposition maximum brightness color restoration and edge refinement histogram stretching**"  has been accepted for publication in "*Optics Express*". 
+- May 1 2022, our paper entitled "*Underwater image enhancement via two-level wavelet decomposition maximum brightness color restoration and edge refinement histogram stretching*" has been accepted for publication in "**Optics Express**". 
 
-- Apr 19 2022, our paper entitled "**Identifying and Managing Risks of AI-Driven Operations: the Case of Automatic Speech Recognition for Improving Air Traffic Safety**"  has been accepted for publication in "*Chinese Journal of Aeronautics*". 
+- Apr 19 2022, our paper entitled "*Identifying and Managing Risks of AI-Driven Operations: the Case of Automatic Speech Recognition for Improving Air Traffic Safety*"  has been accepted for publication in "**Chinese Journal of Aeronautics**". 
 
-- Jan 08 2022, our paper entitled "**Automatic Repetition Instruction Generation for Air Traffic Control Training using Multi-task Learning with an Improved Copy Network**"  has been accepted for publication in "*Knowledge-based Systems*". Congrat to Pan Zhang!
+- Jan 08 2022, our paper entitled "*Automatic Repetition Instruction Generation for Air Traffic Control Training using Multi-task Learning with an Improved Copy Network*"  has been accepted for publication in "**Knowledge-based Systems**". Congrat to Pan Zhang!
 
-- Dec 24 2021, our paper entitled "**A Deep Learning Approach for Short-Term Airport Traffic Flow Prediction**"  has been accepted for publication in "*Aerospace*". Congrat to Zhen Yan!
+- Dec 24 2021, our paper entitled "*A Deep Learning Approach for Short-Term Airport Traffic Flow Prediction*"  has been accepted for publication in "**Aerospace**". Congrat to Zhen Yan!
 
-- Nov 12 2021, our paper entitled "**Automated traffic incident detection with a smaller dataset based on generative adversarial networks**" ("*Accident Analysis & Prevention*") is selected as an ESI highly cited paper.
+- Nov 12 2021, our paper entitled "*Automated traffic incident detection with a smaller dataset based on generative adversarial networks*" ("**Accident Analysis & Prevention**") is selected as an ESI highly cited paper.
 
-- Oct 09 2021, our new paper entitled "**Autonomous underwater robot for underwater image enhancement via multi-scale deformable convolution network with attention mechanism**"  has been accepted for publication in "*COMPUTERS AND ELECTRONICS IN AGRICULTURE*". 
+- Oct 09 2021, our new paper entitled "*Autonomous underwater robot for underwater image enhancement via multi-scale deformable convolution network with attention mechanism*"  has been accepted for publication in "**COMPUTERS AND ELECTRONICS IN AGRICULTURE**". 
 
-- Sep 07 2021, our new paper entitled "**An Improved U-Net Architecture for Image Dehazing**"  has been accepted for publication in "*IEICE Trans. Information and Systems*".  
+- Sep 07 2021, our new paper entitled "*An Improved U-Net Architecture for Image Dehazing*"  has been accepted for publication in "**IEICE Trans. Information and Systems**".  
 
-- Aug 24 2021, our new paper entitled "**ATCSpeechNet: A multilingual end-to-end speech recognition framework for air traffic control systems**"  has been accepted for publication in "*Applied Soft Computing*".  
+- Aug 24 2021, our new paper entitled "*ATCSpeechNet: A multilingual end-to-end speech recognition framework for air traffic control systems*"  has been accepted for publication in "**Applied Soft Computing**".  
 
-- Jul 29 2021, our new paper entitled "**A Deep Learning Framework of Autonomous Pilot Agent for Air Traffic Controller Training**"  has been accepted for publication in "*IEEE Transactions on Human-Machine Systems*".  
+- Jul 29 2021, our new paper entitled "*A Deep Learning Framework of Autonomous Pilot Agent for Air Traffic Controller Training*"  has been accepted for publication in "**IEEE Transactions on Human-Machine Systems**".  
 
-- Jun 10 2021, our new paper entitled "**Towards Multilingual end-to-end Speech Recognition for Air Traffic Control**"  has been accepted for publication in "*IET Intelligent Transport Systems*".  
+- Jun 10 2021, our new paper entitled "*Towards Multilingual end-to-end Speech Recognition for Air Traffic Control*"  has been accepted for publication in "**IET Intelligent Transport Systems**".  
 
 - Apr 25 2021, I am honored as an Editoral member of "*Journal of Electronics and Information Technology (JEIT)*".   
 
-- Apr 19 2021, our new paper entitled "**Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control**"  has been accepted for publication in "*Aerospace Science and Technology*".   
+- Apr 19 2021, our new paper entitled "*Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control*"  has been accepted for publication in "**Aerospace Science and Technology**".   
 
-- Mar 01 2021, my new reivew paper entitled "**Spoken instruction understanding in air traffic control: challenge, technique and application**"  has been accepted for publication in "*Aerospace*".    
+- Mar 01 2021, my new reivew paper entitled "*Spoken instruction understanding in air traffic control: challenge, technique and application*" has been accepted for publication in "**Aerospace**".    
   
-- Nov 15 2020, we received a research funding from "*National Natural Science Foundation of China (NSFC-Key project)*" , as the Investigator.
+- Nov 15 2020, we received a research funding from "**National Natural Science Foundation of China (NSFC-Key project)**", as the Investigator.
 
-- Nov 10 2020, our new paper entitled "**A deep Gaussian process-based flight trajectory prediction approach and its application on conflict detection**" has been accepted for publication in "*Algorithms*".
+- Nov 10 2020, our new paper entitled "*A deep Gaussian process-based flight trajectory prediction approach and its application on conflict detection*" has been accepted for publication in "**Algorithms**".
 
-- Nov 07 2020, our new paper entitled "**Adaptive volumetric light and atmospheric scattering**" has been accepted for publication in "*Plos One*".
+- Nov 07 2020, our new paper entitled "*Adaptive volumetric light and atmospheric scattering*" has been accepted for publication in "**Plos One**".
 
 - Sep 18 2020, I received a research funding from "*National Natural Science Foundation of China （NSFC-Young scientist)*" , as the Principal Investigator ("**PI**").
 
-- Aug 18 2020, our new paper entitled "**GPU-based multi-slice per pass algorithm in interactive volume illumination rendering**" has been accepted for publication in "*Frontiers of Information Technology & Electronic Engineering*".
+- Aug 18 2020, our new paper entitled "*GPU-based multi-slice per pass algorithm in interactive volume illumination rendering*" has been accepted for publication in "**Frontiers of Information Technology & Electronic Engineering**".
 
-- Aug 12 2020, our new paper entitled "**Improving speech recognition models with small samples for air traffic control systems**" has been accepted for publication in "*Neurocomputing*".
+- Aug 12 2020, our new paper entitled "*Improving speech recognition models with small samples for air traffic control systems*" has been accepted for publication in "**Neurocomputing**".
 
-- Aug 9 2020, our new paper entitled "**Real-time traffic incident detection based on a hybrid deep learning model**" has been accepted for publication in "*Transportmetrica A: Transport Science*".
+- Aug 9 2020, our new paper entitled "*Real-time traffic incident detection based on a hybrid deep learning model*" has been accepted for publication in "**Transportmetrica A: Transport Science**".
 
-- July 25 2020, our pre-print paper entitled "**ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment**" has been selected for presentation at the INTERSPEECH 2020.
+- July 25 2020, our pre-print paper entitled "*ATCSpeech: a multilingual pilot-controller speech corpus from real Air Traffic Control environment*" has been selected for presentation at the **INTERSPEECH 2020**.
 
-- June 28 2020, my new paper entitled "**A unified framework for multilingual speech recognition in air traffic control systems**" has been accepted for publication in "*IEEE Transactions on Neural Networks and Learning Systems*".  
+- June 28 2020, my new paper entitled "*A unified framework for multilingual speech recognition in air traffic control systems*" has been accepted for publication in "**IEEE Transactions on Neural Networks and Learning Systems**".  
 
-- May. 22 2020, my new paper entitled "**Automated traffic incident detection with a smaller dataset based on generative adversarial networks**" has been accepted for publication in "*Accident Analysis & Prevention*".    
+- May. 22 2020, my new paper entitled "*Automated traffic incident detection with a smaller dataset based on generative adversarial networks*" has been accepted for publication in "**Accident Analysis & Prevention**".    
 
-- Apr. 29 2020, my new paper entitled "**Tensor Completion-based Trajectory Imputation Approach in Air Traffic Control**" is ready to be submitted to the '*Chinese Journal of Aeronautics*'. I would like to thank Prof. Xinglong Wang (CAUC) for his valuable advice.    
 
 
 # CV
