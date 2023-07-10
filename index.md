@@ -11,7 +11,7 @@
       <p><b>Member, IEEE</b></p>
       <p><b>College of Computer Science, Sichuan University</b></p>
       <p><b>yilin@scu.edu.cn</b></p>
-      <p><b>No.24 South Section 1, Yihuan Road, Chengdu , China, 610065</b></p>
+      <p><b>No.24 South Section 1, Yihuan Road, Chengdu, China, 610065</b></p>
     </td>
     <td width="25%">
       <img src="/lyi.jpg" width="100%">     
@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-# I am looking for some PhD and master students, if you are interested in my research, please contact me!
+# I am looking for some self-motivated Ph.D. and master students, if you are interested in my research, please contact me!
 
 # News! A [special issue](https://www.mdpi.com/journal/aerospace/special_issues/Controlling_speech_understanding_air_traffic_safety_enhancement) is launched on Aerospace journal, please contributes your papers! Thanks very much!
 
@@ -38,15 +38,15 @@
   
 # Working Experience    
 
-- 06/2021-now , associate professor, College of Computer Science, Sichuan University, China.     
+- 06/2021-now, associate professor, College of Computer Science, Sichuan University, China.     
 
-- 08/2019-05/2021 , assistant professor, College of Computer Science, Sichuan University, China.      
+- 08/2019-05/2021, assistant professor, College of Computer Science, Sichuan University, China.      
 
 - 07/2013-09/2015, software engineer, Wisesoft. Co. Ltd, China.    
 
 # Research Interests
 
-- Air traffic management: traffic flow prediction, tracjectory prediction, conflict detection, ...    
+- Air traffic management: traffic flow prediction, trajectory prediction, conflict detection, ...    
 
 - Machine learning: deep learning (CNN, RNN, GNN, GAN, ...)    
 
@@ -54,38 +54,38 @@
 
 - Computer vision: image enhancement, biometrics, ...    
 
-- Intelligent Transportation Systems: traffic modelling, incident detections, ...    
+- Intelligent Transportation Systems: traffic modeling, incident detections, ...    
 
 # Social Activities 
 
-- Associate Editor for Journal of Intelligent and Fuzzy Systems (**JIFS**).
+- Associate Editor for the Journal of Intelligent and Fuzzy Systems (**JIFS**).
 
-- Editoral Member for Journal of Electronics and Information Technology (**JEIT**), Advanced Engineering Sciences (**AES**).
+- Editorial Member for Journal of Electronics and Information Technology (**JEIT**), Advanced Engineering Sciences (**AES**).
 
-- Leading Guest Editor for Aerospace journal.
+- Leading Guest Editor for Aerospace Journal.
 
 
 # Selected Publications [**[ReseachGate]**](https://www.researchgate.net/profile/Yi_Lin130)    [**[Google Citation]**](https://scholar.google.com/citations?hl=zh-CN&user=7RapKRUAAAAJ)
 
 # Latest News
+- Jul 10 2023, our paper entitled "*Improving Airport Arrival Flow Prediction Considering Heterogeneous and Dynamic Network Dependencies *"  has been accepted for publication in "**Information Fusion**". Congrats to Zhen Yan!
+
+- Apr 28 2023, our paper entitled "*An Image-based Facial Acupoint Detection Approach Using High-resolution Network and Attention Fusion*"  has been accepted for publication in "**IET Biometrics**". Congrats to Tingting!
 
 
-- Apr 28 2023, our paper entitled "*An Image-based Facial Acupoint Detection Approach Using High-resolution Network and Attention Fusion*"  has been accepted for publication in "**IET Biometrics**". Congrat to Tingting!
-
-
-- Apr 18 2023, our paper entitled "*Boosting Low-Resource Speech Recognition in Air Traffic Communication via Pretrained Feature Aggregation and Multi-Task Learning*"  has been accepted for publication in "**IEEE Transactions on Circuits and Systems II: Express Briefs**". Congrat to Dongyue and Zichen!
+- Apr 18 2023, our paper entitled "*Boosting Low-Resource Speech Recognition in Air Traffic Communication via Pretrained Feature Aggregation and Multi-Task Learning*"  has been accepted for publication in "**IEEE Transactions on Circuits and Systems II: Express Briefs**". Congrats to Dongyue and Zichen!
 
 - Apr 16 2023, I have been approved to be an Associate Editor of the Journal of Intelligent and Fuzzy Systems (JIFS).
 
 - Apr 14 2023, I joined in Sichuan Youth Federation for Science and Technology.
 
-- Jan 11 2023, our paper entitled "*Speech recognition for air traffic control via feature learning and end-to-end training*"  has been accepted for publication in "**IEICE TRANSACTIONS ON INFORMATION AND SYSTEMS**". Congrat to Peng Fan and Dongyue!
+- Jan 11 2023, our paper entitled "*Speech recognition for air traffic control via feature learning and end-to-end training*"  has been accepted for publication in "**IEICE TRANSACTIONS ON INFORMATION AND SYSTEMS**". Congrats to Peng Fan and Dongyue!
 
-- Dec 17 2022, our paper entitled "*A Multi-view Attention based Spatial-temporal Network for Airport Arrival Flow Prediction*"  has been accepted for publication in "**Transportation Research Part E-Logistics and Transportation Review**". Congrat to Zhen Yan!
+- Dec 17 2022, our paper entitled "*A Multi-view Attention based Spatial-temporal Network for Airport Arrival Flow Prediction*"  has been accepted for publication in "**Transportation Research Part E-Logistics and Transportation Review**". Congrats to Zhen Yan!
 
-- Nov 18 2022, our paper entitled "*A Comparative Study of Speaker Role Identification in Air Traffic Communication Using Deep Learning Approaches*"  has been accepted for publication in "**ACM Transactions on Asian and Low-Resource Language Information Processing**". Congrat to Dongyue!
+- Nov 18 2022, our paper entitled "*A Comparative Study of Speaker Role Identification in Air Traffic Communication Using Deep Learning Approaches*"  has been accepted for publication in "**ACM Transactions on Asian and Low-Resource Language Information Processing**". Congrats to Dongyue!
 
-- Aug 25 2022, our paper entitled "*FlightBERT: Binary Encoding Representation for Flight Trajectory Prediction*"  has been accepted for publication in "**IEEE Transactions on Intelligent Transportation Systems**". Congrat to Dongyue!
+- Aug 25 2022, our paper entitled "*FlightBERT: Binary Encoding Representation for Flight Trajectory Prediction*"  has been accepted for publication in "**IEEE Transactions on Intelligent Transportation Systems**". Congrats to Dongyue!
 
 - Jul 14 2022, our paper entitled "*Underwater image restoration via background light estimation and depth map optimization*"  has been accepted for publication in "**Optics Express**". 
 
@@ -95,9 +95,9 @@
 
 - Apr 19 2022, our paper entitled "*Identifying and Managing Risks of AI-Driven Operations: the Case of Automatic Speech Recognition for Improving Air Traffic Safety*"  has been accepted for publication in "**Chinese Journal of Aeronautics**". 
 
-- Jan 08 2022, our paper entitled "*Automatic Repetition Instruction Generation for Air Traffic Control Training using Multi-task Learning with an Improved Copy Network*"  has been accepted for publication in "**Knowledge-based Systems**". Congrat to Pan Zhang!
+- Jan 08 2022, our paper entitled "*Automatic Repetition Instruction Generation for Air Traffic Control Training using Multi-task Learning with an Improved Copy Network*"  has been accepted for publication in "**Knowledge-based Systems**". Congrats to Pan Zhang!
 
-- Dec 24 2021, our paper entitled "*A Deep Learning Approach for Short-Term Airport Traffic Flow Prediction*"  has been accepted for publication in "**Aerospace**". Congrat to Zhen Yan!
+- Dec 24 2021, our paper entitled "*A Deep Learning Approach for Short-Term Airport Traffic Flow Prediction*"  has been accepted for publication in "**Aerospace**". Congrats to Zhen Yan!
 
 - Nov 12 2021, our paper entitled "*Automated traffic incident detection with a smaller dataset based on generative adversarial networks*" ("**Accident Analysis & Prevention**") is selected as an ESI highly cited paper.
 
@@ -123,7 +123,7 @@
 
 - Nov 07 2020, our new paper entitled "*Adaptive volumetric light and atmospheric scattering*" has been accepted for publication in "**Plos One**".
 
-- Sep 18 2020, I received a research funding from "*National Natural Science Foundation of China （NSFC-Young scientist)*" , as the Principal Investigator ("**PI**").
+- Sep 18 2020, I received a research funding from "*National Natural Science Foundation of China （NSFC-Young scientist)*", as the Principal Investigator ("**PI**").
 
 - Aug 18 2020, our new paper entitled "*GPU-based multi-slice per pass algorithm in interactive volume illumination rendering*" has been accepted for publication in "**Frontiers of Information Technology & Electronic Engineering**".
 
