@@ -68,6 +68,8 @@
 # Selected Publications [**[ReseachGate]**](https://www.researchgate.net/profile/Yi_Lin130)    [**[Google Citation]**](https://scholar.google.com/citations?hl=zh-CN&user=7RapKRUAAAAJ)
 
 # Latest News
+- Aug 13 2023, our paper  was accepted for publication in IEEE Transactions on Audio, Speech and Language Processing (TASLP). 
+
 - Jul 25 2023, our paper  was accepted for publication in ACM MM23. 
 
 - Jul 10 2023, our paper was accepted for publication in "**Information Fusion**". Congrats to Zhen Yan!
