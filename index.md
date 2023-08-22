@@ -69,11 +69,13 @@
 
 # Latest News
 
-- Aug 14 2023, our paper  was accepted for publication in Nature Communications. Congrats to Zheng Zhang and all authors!
+- Aug 22 2023, our paper  was accepted for publication in "**Information Fusion**".
+- 
+- Aug 14 2023, our paper  was accepted for publication in "**Nature Communications**". Congrats to Zheng Zhang and all the authors!
 
-- Aug 13 2023, our paper  was accepted for publication in IEEE Transactions on Audio, Speech and Language Processing (TASLP). 
+- Aug 13 2023, our paper  was accepted for publication in "**IEEE Transactions on Audio, Speech and Language Processing**" (TASLP). 
 
-- Jul 25 2023, our paper  was accepted for publication in ACM MM23. 
+- Jul 25 2023, our paper  was accepted for publication in "**ACM MM23**". 
 
 - Jul 10 2023, our paper was accepted for publication in "**Information Fusion**". Congrats to Zhen Yan!
 
