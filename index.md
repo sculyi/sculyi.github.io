@@ -58,6 +58,8 @@
 
 # Social Activities 
 
+- CCF Intelligent Transportation Chapter Executive Committee.
+- CICC Air Traffic Control Board Member.
 - Associate Editor for the Journal of Intelligent and Fuzzy Systems (**JIFS**).
 
 - Editorial Member for Journal of Electronics and Information Technology (**JEIT**), Advanced Engineering Sciences (**AES**).
