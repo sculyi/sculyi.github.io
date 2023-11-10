@@ -72,7 +72,7 @@
 # Latest News
 
 - Sep 12 2023, our paper  was accepted for publication in "**Engineering Applications of Artificial Intelligence**".
-- 
+  
 - Aug 22 2023, our paper  was accepted for publication in "**Information Fusion**".
 
 - Aug 14 2023, our paper  was accepted for publication in "**Nature Communications**". Congrats to Zheng Zhang and all the authors!
