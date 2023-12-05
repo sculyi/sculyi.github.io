@@ -71,6 +71,8 @@
 
 # Latest News
 
+- Dec 01 2023, I am now a senior member of the IEEE.
+
 - Sep 12 2023, our paper  was accepted for publication in "**Engineering Applications of Artificial Intelligence**".
   
 - Aug 22 2023, our paper  was accepted for publication in "**Information Fusion**".
