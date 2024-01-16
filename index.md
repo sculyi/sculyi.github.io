@@ -8,7 +8,7 @@
     <td width="75%">
       <h1>Yi LIN</h1>
       <p><b>Ph.D., Associate professor</b></p>
-      <p><b>Member, IEEE</b></p>
+      <p><b>Senior Member, IEEE</b></p>
       <p><b>College of Computer Science, Sichuan University</b></p>
       <p><b>yilin@scu.edu.cn</b></p>
       <p><b>No.24 South Section 1, Yihuan Road, Chengdu, China, 610065</b></p>
